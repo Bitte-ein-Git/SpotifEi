@@ -7,7 +7,7 @@ on:
         description: 'Direct URL to Spotify .ipa'
         required: true
       CHANGEVERSION:
-        description: 'SpotC++ Version Number'
+        description: 'Spotif🥚 Version'
         required: false
       USEACTIONSEEVEE:
         description: 'Get EeveeSpotify from latest EeveeSpotfiy build action'
